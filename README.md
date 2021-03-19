@@ -1,4 +1,11 @@
-### Hi there 👋
+## Github Stats
+<br>
+<a href="https://github.com/DuncanBScruggs">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuncanBScruggs&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> 
+</a>
+<a href="https://github.com/DuncanBScruggs">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=DuncanBScruggs&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> 
+</a>
 
 <!--
 **DuncanBScruggs/DuncanBScruggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
